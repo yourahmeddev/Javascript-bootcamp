@@ -1,3 +1,4 @@
+// Variable in js
 var eng = 53;
 // eng = 45;
 eng = 53 + 10;
